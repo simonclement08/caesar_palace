@@ -1,0 +1,204 @@
+body{
+    color:white;
+    background-color:white;
+    background-image:url(fond.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+header{
+    border: 10px groove red;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 30px;
+    position: relative;
+    left: 9px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.border{
+    margin-top: 30px;
+    border: 10px groove darkred;
+    border-radius: 10px;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    text-align: center;
+    padding: 5px;
+}
+
+.comm{
+    position: relative;
+    left: 48.5%;
+    top: 30px;
+}
+
+.att1{
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 385px;
+    left: 22%;
+}
+.att2{
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 385px;
+    left: 74%;
+}
+.code{
+    width: 25%;
+    height: 150px;
+    border: 5px red groove;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    background-color: WhiteSmoke;
+    position: relative;
+    top: 40px;
+}
+.code_txt{
+    font-size: xx-large;
+}
+p{
+    color: black;
+    position: relative;
+    top: 30px;
+}
+#indic{
+    font-size: 25px;
+    position: relative;
+    top: 0px;
+}
+.final{
+    position: relative;
+    left: 37.6%;
+    font-size: xx-large;
+}
+.qrcode{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    height: 150px;
+    width: auto;
+}
+.ind{
+    text-align: center;
+    color: antiquewhite;
+    font-size: xx-large;
+}
+.code1{
+    width: 30%;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    left: 35.7%;
+    font-size: 90px;
+    text-align: center;
+}
+.code2{
+    width: 30%;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    left: 35.7%;
+    font-size: 90px;
+    text-align: center;
+    background-color: red;
+}
+.code3{
+    width: 30%;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    left: 35.7%;
+    font-size: 90px;
+    text-align: center;
+    background-color: green;
+}
+.send_answer{
+    position: absolute;
+    top: 450px;
+    left: 40.7%;
+    width: 20%;
+    height: 50px;
+    background-color: lightgreen;
+    border: solid 2px green;
+    font-size: 25px;
+    
+}
+.back_menu{
+    position: absolute;
+    width: 5%;
+    height: 30px;
+    background-color: #BB3333;
+    left: 10%;
+    top: 10%;
+}
+.true1{
+    background-color: red;
+}
+.true2{
+    background-color: green;
+}
+.true3{
+    background-color: yellow;
+}
+.true4{
+    background-color: blue;
+}
+.true5{
+    background-color: orange;
+}
+.true6{
+    background-color: purple;
+}
+.indication{
+    position: absolute;
+    bottom: 50px;
+    right: 40px;
+    border: 1px solid black;
+    background-color: Silver;
+    text-align: center;
+    height: 80px;
+    width: 30%;
+    border-radius: 10px;
+}
+.cesar{
+    height: 30px;
+    width: auto;
+    position: absolute;
+    bottom: 50.5px;
+    right: 45px;
+    opacity: 0.4;
+}
+.cle{
+    width: 50%;
+    height: 150px;
+    border: 5px red groove;
+    text-align: center;
+    margin: 10px;
+    background-color: WhiteSmoke;
+    position: relative;
+    top: 40px;
+    left: 25%;
+}
+.txt_cle{
+    font-size: 50px;
+    top: 0px;
+}
+.a1{
+    top: 570px;
+}
+.attfinal{
+    position: absolute;
+    left: 37%;
+    top: 575px;
+    font-size: 26px;
+    color: white;
+}
